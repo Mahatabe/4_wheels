@@ -1,0 +1,41 @@
+.services{
+    padding: 10rem 0 10rem 0;
+    background-color: #F7F7F7;
+    
+}
+.services .row{
+    margin: 0;
+}
+
+.services .card{
+    border: none;
+    background-color: #F7F7F7;
+}
+.services .card p{
+   margin-top: 1rem;
+}
+
+.services .col{
+margin: 1rem;
+
+}
+
+.services .servicetitle p {
+    margin-bottom: 3rem;
+}
+.services .card-img-top{
+
+    width: 302px;
+    height: auto;
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1092px) {
+.row-cols-md-6>* {
+    flex: 0 0 auto;
+    width: 75%;
+}
+
+}
+
+

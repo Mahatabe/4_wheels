@@ -1,0 +1,79 @@
+.purchaseHist{
+    margin-top: 11.1rem;
+    margin-bottom: 11.1rem;
+}
+
+.purchaseHist .card .his{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0px solid transparent;
+    border: none;
+    border-radius: 0px;
+}
+
+
+.purchaseHistory .card-body {
+    
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.purchaseHistory .card .card-title {
+    position: relative;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.purchaseHistory .tabtitle{
+    background-color: lightgrey;
+}
+
+.purchaseHistory .table {
+    
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+
+.purchaseHistory .table th,
+.table thead th {
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.purchaseHistory .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    
+}
+
+.purchaseHistory .table th {
+    padding: 1rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+.purchaseHistory .table th,
+.table thead th {
+    font-weight: 500;
+}
+
+.purchaseHistory th {
+    text-align: inherit;
+}
+
+.purchaseHistory .m-b-20 {
+    margin-bottom: 20px;
+}
+
+.purchaseHist .titl h5{
+    text-transform: uppercase;
+    font-size: 28px;
+    margin-bottom: 5rem;
+}

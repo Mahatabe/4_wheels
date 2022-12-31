@@ -1,0 +1,11 @@
+.socialBtn{
+    border-radius: 39px;
+    width: 39px;
+    height: 39px;
+    vertical-align: middle;
+}
+
+.crPart{
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-left: -.5rem;
+}

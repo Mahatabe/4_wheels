@@ -1,0 +1,50 @@
+.teampage{
+    margin: 11rem 0 9rem 0;
+}
+
+
+
+.teampage .row{
+    margin: 0;
+}
+
+.teampage .card{
+    border: none;
+    box-shadow:  0 4px 4px 0px rgba(0,0,0,.1);
+    
+}
+
+.teampage .col{
+margin: 1rem;
+
+}
+
+.teampage .teamtitle p {
+    margin-bottom: 3rem;
+}
+
+
+.socialBtn{
+    border-radius: 39px;
+    width: 39px;
+    height: 39px;
+    vertical-align: middle;
+}
+
+.crPart{
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-left: -.5rem;
+}
+
+
+
+
+.teampage .socialBtn{
+    border-radius: 41px;
+    width: 39px;
+    height: 39px;
+    vertical-align: middle;
+    background-color: rgb(103, 131, 209);
+}
+
+

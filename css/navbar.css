@@ -1,0 +1,36 @@
+  
+  
+  .loginButton {
+    color : #fff;
+    background-color : #007bff;
+    border-radius : 350px;
+    border : 0px;
+    width : 100px;
+    margin-left : 1.5rem;
+  }
+
+  .navbar {
+    height : 80px;
+    background : rgb(255, 255, 255);
+    box-shadow : 0 2px 2px -2px rgba(0,0,0,.2);
+  }
+
+  .navslide{
+    margin: 0 0 0 1.5rem;
+  }
+  .navbar-toggler{
+    border : none;
+  }
+
+ 
+  /*770-990*/
+  @media only screen and (min-width: 500px) and (max-width: 990px) {
+    .vis{
+        display: none;
+    }
+  }
+
+
+
+
+

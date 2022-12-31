@@ -1,0 +1,32 @@
+.product{
+    margin: 10rem 0 5rem 0;
+}
+
+
+
+.product .row{
+    margin: 0;
+}
+
+.product .card{
+    border: none;
+    box-shadow:  0 4px 4px 0px rgba(0,0,0,.1);
+    
+}
+
+.product .col{
+margin: 1rem;
+
+}
+.allproducttitle p{
+    margin-bottom: 4rem;
+}
+
+
+
+.allproducts .stb p{
+    text-transform: uppercase;
+    font-weight: 350;
+    color: rgb(28, 28, 28);
+    font-size: 16px;
+}
